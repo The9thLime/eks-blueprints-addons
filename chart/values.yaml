@@ -124,6 +124,7 @@ grafana:
   enable: false
   serviceAccount:
     create: false
+  createNamespace: True
 
 # Vault default Values
 vault:
